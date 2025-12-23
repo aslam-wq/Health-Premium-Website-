@@ -10,6 +10,9 @@ const Footer = () => {
                         <p className="text-gray-500 text-sm max-w-xs">
                             Redefining human performance through data, science, and elite coaching.
                         </p>
+                        <p className="text-gray-500 text-sm mt-4">
+                            +91 9847535194
+                        </p>
                     </div>
 
                     <div className="flex flex-col sm:flex-row gap-8 md:gap-16 w-full md:w-auto">
